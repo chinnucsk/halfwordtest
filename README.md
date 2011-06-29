@@ -1,0 +1,4 @@
+Running
+-------
+
+./rebar compile eunit
